@@ -6154,7 +6154,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background:"portfolio/img/banner.jpg"
+  background-color: #1abc9c !important;
+  background-image: url("banner.jpg");
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {

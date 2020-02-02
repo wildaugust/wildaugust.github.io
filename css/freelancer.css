@@ -6205,7 +6205,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+    background-image: url("banner.jpg");
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

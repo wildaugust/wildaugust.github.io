@@ -6154,7 +6154,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-image: url('/img/portfolio/banner.jpg');
+  background-image: url('./img/portfolio/banner.jpg');
   object-fit: contain;
 }
 
